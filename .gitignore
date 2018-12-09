@@ -106,3 +106,6 @@ venv.bak/
 # exclude data
 data/
 faces/
+
+# exclude models
+.pth
