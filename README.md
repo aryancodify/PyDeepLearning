@@ -1,2 +1,2 @@
 # PyDeepLearning
-Code snippets for Deep Learning Algorithms implemented with Pytorch
+Code for different imaging/NLP problems solved using Dep Learning implemented in Pytorch and Keras
